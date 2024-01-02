@@ -1,5 +1,5 @@
 # deck-oled-hdr-moonlight-sunshine
-Quick guide on how I set up HDR streaming from my PC to my shiny new Steam Deck OLD
+Quick guide on how I set up HDR streaming from my PC to my shiny new Steam Deck OLED
 
 I've been messing with Sunshine and Moonlight w/HDR support for a couple days now and I think I've gotten it to a point I like. Note that this requires Windows 11:
 
