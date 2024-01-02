@@ -31,6 +31,7 @@ In this setup I use a virtual display used primarily for casting to the deck
 * Go to Desktop mode and install Moonlight from the Discover app. The latest builds should have support for HDR
 * Add the game to steam as a non-steam application
 * Go back to the Deck's gaming mode, start Moonlight, and click on the cog in the upper right to configure and click on "Enable HDR" somewhere on the lower right of the pane (use the touch screen to scroll and click)
+  * Note that Moonlight HDR currently only works in the Deck's gaming mode and not desktop
 * Hopefully Moonlight will have found your Sunshine instance. Start a game and enjoy! Be sure to confirm that the Deck is using HDR from the quick menu
 * L1 + R1 + Start + Capture is your friend and will suspend the game, putting you back in Moonlight
 * Holding down the Start button for about 3 seconds or so lets you use the right trackpad as a mount, with A as left click and B and right. This might also come in handy, like when your desktop decides to lock itself anyway after a wake (still haven't figured this one out yet)
